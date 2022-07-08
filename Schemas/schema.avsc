@@ -1,0 +1,80 @@
+{
+    "type": "record",
+    "name": "DataSerialization.AvroAddressBook.AddressBook",
+    "fields": [
+        {
+            "name": "Contacts",
+            "type": {
+                "type": "array",
+                "items": {
+                    "type": "record",
+                    "name": "DataSerialization.AvroAddressBook.Contact",
+                    "fields": [
+                        {
+                            "name": "Name",
+                            "type": "string"
+                        },
+                        {
+                            "name": "Address",
+                            "type": {
+                                "type": "record",
+                                "name": "DataSerialization.AvroAddressBook.Address",
+                                "fields": [
+                                    {
+                                        "name": "StreetNumber",
+                                        "type": "int"
+                                    },
+                                    {
+                                        "name": "Street",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "City",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "State",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "Country",
+                                        "type": "string"
+                                    },
+                                    {
+                                        "name": "PostalCode",
+                                        "type": "int"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "name": "Id",
+                            "type": "int"
+                        },
+                        {
+                            "name": "PhoneNumber",
+                            "type": "int"
+                        },
+                        {
+                            "name": "Relation",
+                            "type": {
+                                "type": "enum",
+                                "name": "DataSerialization.AvroAddressBook.Relation",
+                                "symbols": [
+                                    "Business",
+                                    "Friend",
+                                    "Family",
+                                    "Aquaintance"
+                                ]
+                            }
+                        },
+                        {
+                            "name": "Birthday",
+                            "type": "string"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

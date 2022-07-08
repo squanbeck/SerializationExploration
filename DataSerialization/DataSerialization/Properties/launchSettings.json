@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DataSerialization": {
+      "commandName": "Project",
+      "commandLineArgs": "--runTypes SerializationBenchmarks"
+    }
+  }
+}

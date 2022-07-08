@@ -1,0 +1,1200 @@
+  Newton_Json_Serialization          0.2038881       43434912
+  Newton_Json_Deserialization        0.4436314
+  Bson_Serialization                 0.7333703       42488910
+  Bson_Deserialization               0.4019048
+  System_Json_Serialization          0.1627220       43434912
+  System_Json_Deserialization        0.2782199
+  Avro_Serialization                 0.0842874       27603272
+  Avro_Deserialization               0.3374275
+  Protobuf_Net_Serialization         0.0535874       29221973
+  Protobuf_Net_Deserialization       0.1294685
+  Google_Protobuf_Serialization      0.0817739       29221973
+  Google_Protobuf_Deserialization    0.1300635
+  Newton_Json_Serialization          0.1847131       43434912
+  Newton_Json_Deserialization        0.3694452
+  Bson_Serialization                 0.7380158       42488910
+  Bson_Deserialization               0.3759451
+  System_Json_Serialization          0.0843753       43434912
+  System_Json_Deserialization        0.2058006
+  Avro_Serialization                 0.0832635       27603272
+  Avro_Deserialization               0.2513130
+  Protobuf_Net_Serialization         0.0439344       29221973
+  Protobuf_Net_Deserialization       0.1146786
+  Google_Protobuf_Serialization      0.0556823       29221973
+  Google_Protobuf_Deserialization    0.1068544
+  Newton_Json_Serialization          0.1837962       43434912
+  Newton_Json_Deserialization        0.3736280
+  Bson_Serialization                 0.7220029       42488910
+  Bson_Deserialization               0.3936603
+  System_Json_Serialization          0.0842924       43434912
+  System_Json_Deserialization        0.2016351
+  Avro_Serialization                 0.0870655       27603272
+  Avro_Deserialization               0.2503461
+  Protobuf_Net_Serialization         0.0440593       29221973
+  Protobuf_Net_Deserialization       0.1109190
+  Google_Protobuf_Serialization      0.0548101       29221973
+  Google_Protobuf_Deserialization    0.1252868
+  Newton_Json_Serialization          0.1997273       43434912
+  Newton_Json_Deserialization        0.3697299
+  Bson_Serialization                 0.8165823       42488910
+  Bson_Deserialization               0.4095624
+  System_Json_Serialization          0.0855614       43434912
+  System_Json_Deserialization        0.2127550
+  Avro_Serialization                 0.0867979       27603272
+  Avro_Deserialization               0.2822384
+  Protobuf_Net_Serialization         0.0450949       29221973
+  Protobuf_Net_Deserialization       0.1182689
+  Google_Protobuf_Serialization      0.0573378       29221973
+  Google_Protobuf_Deserialization    0.1089917
+  Newton_Json_Serialization          0.1908349       43434912
+  Newton_Json_Deserialization        0.3596942
+  Bson_Serialization                 0.7399979       42488910
+  Bson_Deserialization               0.3928163
+  System_Json_Serialization          0.0855154       43434912
+  System_Json_Deserialization        0.2074374
+  Avro_Serialization                 0.0842570       27603272
+  Avro_Deserialization               0.2446450
+  Protobuf_Net_Serialization         0.0470864       29221973
+  Protobuf_Net_Deserialization       0.1182199
+  Google_Protobuf_Serialization      0.0557847       29221973
+  Google_Protobuf_Deserialization    0.1065139
+  Newton_Json_Serialization          0.1858883       43434912
+  Newton_Json_Deserialization        0.3770593
+  Bson_Serialization                 0.7542504       42488910
+  Bson_Deserialization               0.3894983
+  System_Json_Serialization          0.0857748       43434912
+  System_Json_Deserialization        0.2275547
+  Avro_Serialization                 0.0944279       27603272
+  Avro_Deserialization               0.2669687
+  Protobuf_Net_Serialization         0.0449792       29221973
+  Protobuf_Net_Deserialization       0.1154081
+  Google_Protobuf_Serialization      0.0563072       29221973
+  Google_Protobuf_Deserialization    0.1087328
+  Newton_Json_Serialization          0.1925885       43434912
+  Newton_Json_Deserialization        0.3856542
+  Bson_Serialization                 0.7429471       42488910
+  Bson_Deserialization               0.3920253
+  System_Json_Serialization          0.0852427       43434912
+  System_Json_Deserialization        0.2052475
+  Avro_Serialization                 0.0878057       27603272
+  Avro_Deserialization               0.2490185
+  Protobuf_Net_Serialization         0.0448646       29221973
+  Protobuf_Net_Deserialization       0.1180464
+  Google_Protobuf_Serialization      0.0563294       29221973
+  Google_Protobuf_Deserialization    0.1161462
+  Newton_Json_Serialization          0.1929913       43434912
+  Newton_Json_Deserialization        0.3809063
+  Bson_Serialization                 0.7691731       42488910
+  Bson_Deserialization               0.3969494
+  System_Json_Serialization          0.0845778       43434912
+  System_Json_Deserialization        0.2100668
+  Avro_Serialization                 0.0852230       27603272
+  Avro_Deserialization               0.2602234
+  Protobuf_Net_Serialization         0.0448377       29221973
+  Protobuf_Net_Deserialization       0.1043769
+  Google_Protobuf_Serialization      0.0550309       29221973
+  Google_Protobuf_Deserialization    0.1048990
+  Newton_Json_Serialization          0.1894496       43434912
+  Newton_Json_Deserialization        0.3655233
+  Bson_Serialization                 0.7346657       42488910
+  Bson_Deserialization               0.3892723
+  System_Json_Serialization          0.0867246       43434912
+  System_Json_Deserialization        0.2144136
+  Avro_Serialization                 0.0859020       27603272
+  Avro_Deserialization               0.2605266
+  Protobuf_Net_Serialization         0.0456742       29221973
+  Protobuf_Net_Deserialization       0.1228010
+  Google_Protobuf_Serialization      0.0560176       29221973
+  Google_Protobuf_Deserialization    0.1044927
+  Newton_Json_Serialization          0.1830024       43434912
+  Newton_Json_Deserialization        0.3724735
+  Bson_Serialization                 0.7347156       42488910
+  Bson_Deserialization               0.4319053
+  System_Json_Serialization          0.0900545       43434912
+  System_Json_Deserialization        0.2158065
+  Avro_Serialization                 0.0863642       27603272
+  Avro_Deserialization               0.2449226
+  Protobuf_Net_Serialization         0.0446598       29221973
+  Protobuf_Net_Deserialization       0.1215505
+  Google_Protobuf_Serialization      0.0571047       29221973
+  Google_Protobuf_Deserialization    0.1053466
+  Newton_Json_Serialization          0.1948577       43434912
+  Newton_Json_Deserialization        0.3749693
+  Bson_Serialization                 0.7477751       42488910
+  Bson_Deserialization               0.3920609
+  System_Json_Serialization          0.0853872       43434912
+  System_Json_Deserialization        0.2093396
+  Avro_Serialization                 0.0863696       27603272
+  Avro_Deserialization               0.2555396
+  Protobuf_Net_Serialization         0.0445906       29221973
+  Protobuf_Net_Deserialization       0.1135883
+  Google_Protobuf_Serialization      0.0559304       29221973
+  Google_Protobuf_Deserialization    0.1049639
+  Newton_Json_Serialization          0.1869637       43434912
+  Newton_Json_Deserialization        0.3728512
+  Bson_Serialization                 0.7298518       42488910
+  Bson_Deserialization               0.3923105
+  System_Json_Serialization          0.0848249       43434912
+  System_Json_Deserialization        0.2110336
+  Avro_Serialization                 0.0847777       27603272
+  Avro_Deserialization               0.2534607
+  Protobuf_Net_Serialization         0.0450777       29221973
+  Protobuf_Net_Deserialization       0.1183340
+  Google_Protobuf_Serialization      0.0566319       29221973
+  Google_Protobuf_Deserialization    0.1043656
+  Newton_Json_Serialization          0.1929403       43434912
+  Newton_Json_Deserialization        0.3705636
+  Bson_Serialization                 0.7459508       42488910
+  Bson_Deserialization               0.4024109
+  System_Json_Serialization          0.0838623       43434912
+  System_Json_Deserialization        0.2105466
+  Avro_Serialization                 0.0858583       27603272
+  Avro_Deserialization               0.2474940
+  Protobuf_Net_Serialization         0.0453772       29221973
+  Protobuf_Net_Deserialization       0.1222815
+  Google_Protobuf_Serialization      0.0553121       29221973
+  Google_Protobuf_Deserialization    0.1042260
+  Newton_Json_Serialization          0.1933760       43434912
+  Newton_Json_Deserialization        0.3787957
+  Bson_Serialization                 0.7318763       42488910
+  Bson_Deserialization               0.3909862
+  System_Json_Serialization          0.0857245       43434912
+  System_Json_Deserialization        0.2193532
+  Avro_Serialization                 0.0865225       27603272
+  Avro_Deserialization               0.2507564
+  Protobuf_Net_Serialization         0.0456168       29221973
+  Protobuf_Net_Deserialization       0.1181640
+  Google_Protobuf_Serialization      0.0562909       29221973
+  Google_Protobuf_Deserialization    0.1052429
+  Newton_Json_Serialization          0.1973858       43434912
+  Newton_Json_Deserialization        0.3680185
+  Bson_Serialization                 0.7239848       42488910
+  Bson_Deserialization               0.3909606
+  System_Json_Serialization          0.0853920       43434912
+  System_Json_Deserialization        0.2019356
+  Avro_Serialization                 0.0853319       27603272
+  Avro_Deserialization               0.2607180
+  Protobuf_Net_Serialization         0.0449815       29221973
+  Protobuf_Net_Deserialization       0.1187764
+  Google_Protobuf_Serialization      0.0553026       29221973
+  Google_Protobuf_Deserialization    0.1053608
+  Newton_Json_Serialization          0.1865062       43434912
+  Newton_Json_Deserialization        0.3750674
+  Bson_Serialization                 0.9938491       42488910
+  Bson_Deserialization               0.5533061
+  System_Json_Serialization          0.0998111       43434912
+  System_Json_Deserialization        0.2960876
+  Avro_Serialization                 0.1322845       27603272
+  Avro_Deserialization               0.3238094
+  Protobuf_Net_Serialization         0.0506806       29221973
+  Protobuf_Net_Deserialization       0.1382371
+  Google_Protobuf_Serialization      0.0679525       29221973
+  Google_Protobuf_Deserialization    0.1276905
+  Newton_Json_Serialization          0.2216761       43434912
+  Newton_Json_Deserialization        0.4172657
+  Bson_Serialization                 0.7471264       42488910
+  Bson_Deserialization               0.3970412
+  System_Json_Serialization          0.0901148       43434912
+  System_Json_Deserialization        0.2194580
+  Avro_Serialization                 0.0878324       27603272
+  Avro_Deserialization               0.2555387
+  Protobuf_Net_Serialization         0.0466342       29221973
+  Protobuf_Net_Deserialization       0.1225378
+  Google_Protobuf_Serialization      0.0585962       29221973
+  Google_Protobuf_Deserialization    0.1077312
+  Newton_Json_Serialization          0.1958747       43434912
+  Newton_Json_Deserialization        0.3870560
+  Bson_Serialization                 0.7392741       42488910
+  Bson_Deserialization               0.4004321
+  System_Json_Serialization          0.0868388       43434912
+  System_Json_Deserialization        0.2702459
+  Avro_Serialization                 0.1466637       27603272
+  Avro_Deserialization               0.2846245
+  Protobuf_Net_Serialization         0.0562688       29221973
+  Protobuf_Net_Deserialization       0.1747496
+  Google_Protobuf_Serialization      0.0650037       29221973
+  Google_Protobuf_Deserialization    0.1315003
+  Newton_Json_Serialization          0.2357949       43434912
+  Newton_Json_Deserialization        0.4515006
+  Bson_Serialization                 0.8765614       42488910
+  Bson_Deserialization               0.4524535
+  System_Json_Serialization          0.0989407       43434912
+  System_Json_Deserialization        0.2453062
+  Avro_Serialization                 0.0920621       27603272
+  Avro_Deserialization               0.2871918
+  Protobuf_Net_Serialization         0.0508893       29221973
+  Protobuf_Net_Deserialization       0.1198087
+  Google_Protobuf_Serialization      0.0618124       29221973
+  Google_Protobuf_Deserialization    0.1136969
+  Newton_Json_Serialization          0.2031798       43434912
+  Newton_Json_Deserialization        0.4257137
+  Bson_Serialization                 0.9722481       42488910
+  Bson_Deserialization               0.4651730
+  System_Json_Serialization          0.1001041       43434912
+  System_Json_Deserialization        0.2443496
+  Avro_Serialization                 0.0989015       27603272
+  Avro_Deserialization               0.3128825
+  Protobuf_Net_Serialization         0.0479435       29221973
+  Protobuf_Net_Deserialization       0.1544652
+  Google_Protobuf_Serialization      0.0802064       29221973
+  Google_Protobuf_Deserialization    0.2007575
+  Newton_Json_Serialization          0.2759044       43434912
+  Newton_Json_Deserialization        0.6140206
+  Bson_Serialization                 1.0677164       42488910
+  Bson_Deserialization               0.4570597
+  System_Json_Serialization          0.0986600       43434912
+  System_Json_Deserialization        0.2441962
+  Avro_Serialization                 0.0979902       27603272
+  Avro_Deserialization               0.2752728
+  Protobuf_Net_Serialization         0.0496705       29221973
+  Protobuf_Net_Deserialization       0.1257464
+  Google_Protobuf_Serialization      0.0611612       29221973
+  Google_Protobuf_Deserialization    0.1147468
+  Newton_Json_Serialization          0.2277940       43434912
+  Newton_Json_Deserialization        0.4352081
+  Bson_Serialization                 0.8420710       42488910
+  Bson_Deserialization               0.4417157
+  System_Json_Serialization          0.0925647       43434912
+  System_Json_Deserialization        0.2387999
+  Avro_Serialization                 0.0985510       27603272
+  Avro_Deserialization               0.2900165
+  Protobuf_Net_Serialization         0.0480928       29221973
+  Protobuf_Net_Deserialization       0.1316595
+  Google_Protobuf_Serialization      0.0624924       29221973
+  Google_Protobuf_Deserialization    0.1184462
+  Newton_Json_Serialization          0.2101355       43434912
+  Newton_Json_Deserialization        0.4200928
+  Bson_Serialization                 0.7868880       42488910
+  Bson_Deserialization               0.4189475
+  System_Json_Serialization          0.0906755       43434912
+  System_Json_Deserialization        0.2298011
+  Avro_Serialization                 0.0918798       27603272
+  Avro_Deserialization               0.2850474
+  Protobuf_Net_Serialization         0.0496114       29221973
+  Protobuf_Net_Deserialization       0.1325388
+  Google_Protobuf_Serialization      0.0624659       29221973
+  Google_Protobuf_Deserialization    0.1259850
+  Newton_Json_Serialization          0.2148934       43434912
+  Newton_Json_Deserialization        0.4211125
+  Bson_Serialization                 0.8204359       42488910
+  Bson_Deserialization               0.4168019
+  System_Json_Serialization          0.0899634       43434912
+  System_Json_Deserialization        0.2255757
+  Avro_Serialization                 0.0924210       27603272
+  Avro_Deserialization               0.2581679
+  Protobuf_Net_Serialization         0.0477502       29221973
+  Protobuf_Net_Deserialization       0.1183966
+  Google_Protobuf_Serialization      0.0593343       29221973
+  Google_Protobuf_Deserialization    0.1114169
+  Newton_Json_Serialization          0.1982068       43434912
+  Newton_Json_Deserialization        0.3911193
+  Bson_Serialization                 0.7620115       42488910
+  Bson_Deserialization               0.4095722
+  System_Json_Serialization          0.0860016       43434912
+  System_Json_Deserialization        0.2171991
+  Avro_Serialization                 0.0895630       27603272
+  Avro_Deserialization               0.2599855
+  Protobuf_Net_Serialization         0.0472017       29221973
+  Protobuf_Net_Deserialization       0.1175921
+  Google_Protobuf_Serialization      0.0576003       29221973
+  Google_Protobuf_Deserialization    0.1071370
+  Newton_Json_Serialization          0.2005911       43434912
+  Newton_Json_Deserialization        0.3867120
+  Bson_Serialization                 0.7356796       42488910
+  Bson_Deserialization               0.4105324
+  System_Json_Serialization          0.0879691       43434912
+  System_Json_Deserialization        0.2177526
+  Avro_Serialization                 0.0914280       27603272
+  Avro_Deserialization               0.2698316
+  Protobuf_Net_Serialization         0.0478940       29221973
+  Protobuf_Net_Deserialization       0.1152288
+  Google_Protobuf_Serialization      0.0582211       29221973
+  Google_Protobuf_Deserialization    0.1098813
+  Newton_Json_Serialization          0.1943112       43434912
+  Newton_Json_Deserialization        0.3785027
+  Bson_Serialization                 0.7714520       42488910
+  Bson_Deserialization               0.4125087
+  System_Json_Serialization          0.0880049       43434912
+  System_Json_Deserialization        0.2173167
+  Avro_Serialization                 0.0896306       27603272
+  Avro_Deserialization               0.2614860
+  Protobuf_Net_Serialization         0.0470484       29221973
+  Protobuf_Net_Deserialization       0.1200368
+  Google_Protobuf_Serialization      0.0726987       29221973
+  Google_Protobuf_Deserialization    0.1107282
+  Newton_Json_Serialization          0.1899024       43434912
+  Newton_Json_Deserialization        0.3837368
+  Bson_Serialization                 0.7603467       42488910
+  Bson_Deserialization               0.4052309
+  System_Json_Serialization          0.0877889       43434912
+  System_Json_Deserialization        0.2155088
+  Avro_Serialization                 0.0875832       27603272
+  Avro_Deserialization               0.2565030
+  Protobuf_Net_Serialization         0.0469003       29221973
+  Protobuf_Net_Deserialization       0.1165231
+  Google_Protobuf_Serialization      0.0587435       29221973
+  Google_Protobuf_Deserialization    0.1073202
+  Newton_Json_Serialization          0.1986337       43434912
+  Newton_Json_Deserialization        0.3787335
+  Bson_Serialization                 0.7686678       42488910
+  Bson_Deserialization               0.4083065
+  System_Json_Serialization          0.0878712       43434912
+  System_Json_Deserialization        0.2171675
+  Avro_Serialization                 0.0893473       27603272
+  Avro_Deserialization               0.3083941
+  Protobuf_Net_Serialization         0.0530621       29221973
+  Protobuf_Net_Deserialization       0.1292995
+  Google_Protobuf_Serialization      0.0580939       29221973
+  Google_Protobuf_Deserialization    0.1119415
+  Newton_Json_Serialization          0.2073117       43434912
+  Newton_Json_Deserialization        0.3929271
+  Bson_Serialization                 0.7530817       42488910
+  Bson_Deserialization               0.3904447
+  System_Json_Serialization          0.0868555       43434912
+  System_Json_Deserialization        0.2047887
+  Avro_Serialization                 0.0890811       27603272
+  Avro_Deserialization               0.2633265
+  Protobuf_Net_Serialization         0.0460850       29221973
+  Protobuf_Net_Deserialization       0.1208427
+  Google_Protobuf_Serialization      0.0594211       29221973
+  Google_Protobuf_Deserialization    0.1064509
+  Newton_Json_Serialization          0.1941266       43434912
+  Newton_Json_Deserialization        0.3753241
+  Bson_Serialization                 0.7915657       42488910
+  Bson_Deserialization               0.3913002
+  System_Json_Serialization          0.0885228       43434912
+  System_Json_Deserialization        0.2128351
+  Avro_Serialization                 0.0964342       27603272
+  Avro_Deserialization               0.2678900
+  Protobuf_Net_Serialization         0.0468376       29221973
+  Protobuf_Net_Deserialization       0.1201830
+  Google_Protobuf_Serialization      0.0582213       29221973
+  Google_Protobuf_Deserialization    0.1040921
+  Newton_Json_Serialization          0.1872281       43434912
+  Newton_Json_Deserialization        0.3921385
+  Bson_Serialization                 0.7514685       42488910
+  Bson_Deserialization               0.3944929
+  System_Json_Serialization          0.0868307       43434912
+  System_Json_Deserialization        0.2174911
+  Avro_Serialization                 0.0874656       27603272
+  Avro_Deserialization               0.2527286
+  Protobuf_Net_Serialization         0.0465303       29221973
+  Protobuf_Net_Deserialization       0.1185860
+  Google_Protobuf_Serialization      0.0584803       29221973
+  Google_Protobuf_Deserialization    0.1181882
+  Newton_Json_Serialization          0.1938681       43434912
+  Newton_Json_Deserialization        0.3812001
+  Bson_Serialization                 0.7361441       42488910
+  Bson_Deserialization               0.4018483
+  System_Json_Serialization          0.0853427       43434912
+  System_Json_Deserialization        0.2183850
+  Avro_Serialization                 0.0887883       27603272
+  Avro_Deserialization               0.2566080
+  Protobuf_Net_Serialization         0.0449280       29221973
+  Protobuf_Net_Deserialization       0.1197493
+  Google_Protobuf_Serialization      0.0571796       29221973
+  Google_Protobuf_Deserialization    0.1062071
+  Newton_Json_Serialization          0.2291142       43434912
+  Newton_Json_Deserialization        0.3878190
+  Bson_Serialization                 0.7454398       42488910
+  Bson_Deserialization               0.3993698
+  System_Json_Serialization          0.0857574       43434912
+  System_Json_Deserialization        0.2129486
+  Avro_Serialization                 0.0887670       27603272
+  Avro_Deserialization               0.2558254
+  Protobuf_Net_Serialization         0.0459565       29221973
+  Protobuf_Net_Deserialization       0.1191003
+  Google_Protobuf_Serialization      0.0570084       29221973
+  Google_Protobuf_Deserialization    0.1116144
+  Newton_Json_Serialization          0.2027225       43434912
+  Newton_Json_Deserialization        0.3843985
+  Bson_Serialization                 0.7728268       42488910
+  Bson_Deserialization               0.3999115
+  System_Json_Serialization          0.0856537       43434912
+  System_Json_Deserialization        0.2225340
+  Avro_Serialization                 0.0883219       27603272
+  Avro_Deserialization               0.2556070
+  Protobuf_Net_Serialization         0.0448605       29221973
+  Protobuf_Net_Deserialization       0.1147108
+  Google_Protobuf_Serialization      0.0567870       29221973
+  Google_Protobuf_Deserialization    0.1151377
+  Newton_Json_Serialization          0.1935097       43434912
+  Newton_Json_Deserialization        0.3811445
+  Bson_Serialization                 0.7647532       42488910
+  Bson_Deserialization               0.4048638
+  System_Json_Serialization          0.0884255       43434912
+  System_Json_Deserialization        0.2150264
+  Avro_Serialization                 0.0878947       27603272
+  Avro_Deserialization               0.2584836
+  Protobuf_Net_Serialization         0.0450821       29221973
+  Protobuf_Net_Deserialization       0.1190407
+  Google_Protobuf_Serialization      0.0571975       29221973
+  Google_Protobuf_Deserialization    0.1054732
+  Newton_Json_Serialization          0.2017701       43434912
+  Newton_Json_Deserialization        0.3928174
+  Bson_Serialization                 0.7468994       42488910
+  Bson_Deserialization               0.3976089
+  System_Json_Serialization          0.0879764       43434912
+  System_Json_Deserialization        0.2206438
+  Avro_Serialization                 0.0879293       27603272
+  Avro_Deserialization               0.2533745
+  Protobuf_Net_Serialization         0.0461710       29221973
+  Protobuf_Net_Deserialization       0.1158520
+  Google_Protobuf_Serialization      0.0578198       29221973
+  Google_Protobuf_Deserialization    0.1162646
+  Newton_Json_Serialization          0.1903210       43434912
+  Newton_Json_Deserialization        0.3852351
+  Bson_Serialization                 0.7457924       42488910
+  Bson_Deserialization               0.3962397
+  System_Json_Serialization          0.0864991       43434912
+  System_Json_Deserialization        0.2118482
+  Avro_Serialization                 0.0865199       27603272
+  Avro_Deserialization               0.2514651
+  Protobuf_Net_Serialization         0.0459444       29221973
+  Protobuf_Net_Deserialization       0.1191948
+  Google_Protobuf_Serialization      0.0569518       29221973
+  Google_Protobuf_Deserialization    0.1163764
+  Newton_Json_Serialization          0.1898160       43434912
+  Newton_Json_Deserialization        0.3824777
+  Bson_Serialization                 0.7606917       42488910
+  Bson_Deserialization               0.4012318
+  System_Json_Serialization          0.0869839       43434912
+  System_Json_Deserialization        0.2137489
+  Avro_Serialization                 0.0886500       27603272
+  Avro_Deserialization               0.2570999
+  Protobuf_Net_Serialization         0.0457099       29221973
+  Protobuf_Net_Deserialization       0.1153366
+  Google_Protobuf_Serialization      0.0575827       29221973
+  Google_Protobuf_Deserialization    0.1215348
+  Newton_Json_Serialization          0.1906070       43434912
+  Newton_Json_Deserialization        0.3896663
+  Bson_Serialization                 0.7490617       42488910
+  Bson_Deserialization               0.4254279
+  System_Json_Serialization          0.0925252       43434912
+  System_Json_Deserialization        0.2175969
+  Avro_Serialization                 0.0872698       27603272
+  Avro_Deserialization               0.2523153
+  Protobuf_Net_Serialization         0.0456966       29221973
+  Protobuf_Net_Deserialization       0.1191700
+  Google_Protobuf_Serialization      0.0558591       29221973
+  Google_Protobuf_Deserialization    0.1088269
+  Newton_Json_Serialization          0.1990683       43434912
+  Newton_Json_Deserialization        0.3817664
+  Bson_Serialization                 0.7387068       42488910
+  Bson_Deserialization               0.4043592
+  System_Json_Serialization          0.0855945       43434912
+  System_Json_Deserialization        0.2127349
+  Avro_Serialization                 0.0876853       27603272
+  Avro_Deserialization               0.2572522
+  Protobuf_Net_Serialization         0.0458139       29221973
+  Protobuf_Net_Deserialization       0.1196174
+  Google_Protobuf_Serialization      0.0568410       29221973
+  Google_Protobuf_Deserialization    0.1056855
+  Newton_Json_Serialization          0.1997824       43434912
+  Newton_Json_Deserialization        0.3801661
+  Bson_Serialization                 0.7730051       42488910
+  Bson_Deserialization               0.4007392
+  System_Json_Serialization          0.0872037       43434912
+  System_Json_Deserialization        0.2113712
+  Avro_Serialization                 0.0871437       27603272
+  Avro_Deserialization               0.2565562
+  Protobuf_Net_Serialization         0.0459476       29221973
+  Protobuf_Net_Deserialization       0.1156622
+  Google_Protobuf_Serialization      0.0575972       29221973
+  Google_Protobuf_Deserialization    0.1159126
+  Newton_Json_Serialization          0.1885744       43434912
+  Newton_Json_Deserialization        0.3769882
+  Bson_Serialization                 0.7615117       42488910
+  Bson_Deserialization               0.3948175
+  System_Json_Serialization          0.0885935       43434912
+  System_Json_Deserialization        0.2154548
+  Avro_Serialization                 0.0878491       27603272
+  Avro_Deserialization               0.2528338
+  Protobuf_Net_Serialization         0.0468358       29221973
+  Protobuf_Net_Deserialization       0.1184712
+  Google_Protobuf_Serialization      0.0568194       29221973
+  Google_Protobuf_Deserialization    0.1151048
+  Newton_Json_Serialization          0.1908301       43434912
+  Newton_Json_Deserialization        0.3823283
+  Bson_Serialization                 0.7462258       42488910
+  Bson_Deserialization               0.3892194
+  System_Json_Serialization          0.0858754       43434912
+  System_Json_Deserialization        0.2226546
+  Avro_Serialization                 0.0878717       27603272
+  Avro_Deserialization               0.2516685
+  Protobuf_Net_Serialization         0.0453120       29221973
+  Protobuf_Net_Deserialization       0.1207226
+  Google_Protobuf_Serialization      0.0571403       29221973
+  Google_Protobuf_Deserialization    0.1049239
+  Newton_Json_Serialization          0.2002093       43434912
+  Newton_Json_Deserialization        0.3778875
+  Bson_Serialization                 0.7331286       42488910
+  Bson_Deserialization               0.3955603
+  System_Json_Serialization          0.0864997       43434912
+  System_Json_Deserialization        0.2127965
+  Avro_Serialization                 0.0895339       27603272
+  Avro_Deserialization               0.2517257
+  Protobuf_Net_Serialization         0.0453285       29221973
+  Protobuf_Net_Deserialization       0.1203649
+  Google_Protobuf_Serialization      0.0568730       29221973
+  Google_Protobuf_Deserialization    0.1139267
+  Newton_Json_Serialization          0.2006256       43434912
+  Newton_Json_Deserialization        0.4176332
+  Bson_Serialization                 0.7601593       42488910
+  Bson_Deserialization               0.4079000
+  System_Json_Serialization          0.0866904       43434912
+  System_Json_Deserialization        0.2134294
+  Avro_Serialization                 0.0886989       27603272
+  Avro_Deserialization               0.2489647
+  Protobuf_Net_Serialization         0.0444889       29221973
+  Protobuf_Net_Deserialization       0.1183729
+  Google_Protobuf_Serialization      0.0568579       29221973
+  Google_Protobuf_Deserialization    0.1062469
+  Newton_Json_Serialization          0.2144714       43434912
+  Newton_Json_Deserialization        0.3758464
+  Bson_Serialization                 0.7587664       42488910
+  Bson_Deserialization               0.4059968
+  System_Json_Serialization          0.0874092       43434912
+  System_Json_Deserialization        0.2130710
+  Avro_Serialization                 0.0870795       27603272
+  Avro_Deserialization               0.2653580
+  Protobuf_Net_Serialization         0.0449327       29221973
+  Protobuf_Net_Deserialization       0.1148828
+  Google_Protobuf_Serialization      0.0573447       29221973
+  Google_Protobuf_Deserialization    0.1165039
+  Newton_Json_Serialization          0.1984270       43434912
+  Newton_Json_Deserialization        0.3757516
+  Bson_Serialization                 0.7512895       42488910
+  Bson_Deserialization               0.3963639
+  System_Json_Serialization          0.0861998       43434912
+  System_Json_Deserialization        0.2139868
+  Avro_Serialization                 0.0855305       27603272
+  Avro_Deserialization               0.2502085
+  Protobuf_Net_Serialization         0.0455303       29221973
+  Protobuf_Net_Deserialization       0.1191885
+  Google_Protobuf_Serialization      0.0575803       29221973
+  Google_Protobuf_Deserialization    0.1057586
+  Newton_Json_Serialization          0.1992334       43434912
+  Newton_Json_Deserialization        0.3806126
+  Bson_Serialization                 0.7582158       42488910
+  Bson_Deserialization               0.3960245
+  System_Json_Serialization          0.0878161       43434912
+  System_Json_Deserialization        0.2121477
+  Avro_Serialization                 0.0871728       27603272
+  Avro_Deserialization               0.2528228
+  Protobuf_Net_Serialization         0.0452461       29221973
+  Protobuf_Net_Deserialization       0.1203203
+  Google_Protobuf_Serialization      0.0565666       29221973
+  Google_Protobuf_Deserialization    0.1050187
+  Newton_Json_Serialization          0.1987168       43434912
+  Newton_Json_Deserialization        0.3877862
+  Bson_Serialization                 0.7551486       42488910
+  Bson_Deserialization               0.3941238
+  System_Json_Serialization          0.0845941       43434912
+  System_Json_Deserialization        0.2175118
+  Avro_Serialization                 0.0870757       27603272
+  Avro_Deserialization               0.2495683
+  Protobuf_Net_Serialization         0.0448838       29221973
+  Protobuf_Net_Deserialization       0.1202758
+  Google_Protobuf_Serialization      0.0571269       29221973
+  Google_Protobuf_Deserialization    0.1076629
+  Newton_Json_Serialization          0.1978458       43434912
+  Newton_Json_Deserialization        0.3852803
+  Bson_Serialization                 0.7490037       42488910
+  Bson_Deserialization               0.3918918
+  System_Json_Serialization          0.0861133       43434912
+  System_Json_Deserialization        0.2145862
+  Avro_Serialization                 0.0887880       27603272
+  Avro_Deserialization               0.2534546
+  Protobuf_Net_Serialization         0.0454486       29221973
+  Protobuf_Net_Deserialization       0.1155854
+  Google_Protobuf_Serialization      0.0592755       29221973
+  Google_Protobuf_Deserialization    0.1214343
+  Newton_Json_Serialization          0.1883803       43434912
+  Newton_Json_Deserialization        0.3807700
+  Bson_Serialization                 0.7521598       42488910
+  Bson_Deserialization               0.3951781
+  System_Json_Serialization          0.0856168       43434912
+  System_Json_Deserialization        0.2139162
+  Avro_Serialization                 0.0892454       27603272
+  Avro_Deserialization               0.2556670
+  Protobuf_Net_Serialization         0.0453817       29221973
+  Protobuf_Net_Deserialization       0.1189911
+  Google_Protobuf_Serialization      0.0572856       29221973
+  Google_Protobuf_Deserialization    0.1083624
+  Newton_Json_Serialization          0.2000754       43434912
+  Newton_Json_Deserialization        0.3806902
+  Bson_Serialization                 0.7510074       42488910
+  Bson_Deserialization               0.4011564
+  System_Json_Serialization          0.0865243       43434912
+  System_Json_Deserialization        0.2155299
+  Avro_Serialization                 0.0879215       27603272
+  Avro_Deserialization               0.2616780
+  Protobuf_Net_Serialization         0.0457875       29221973
+  Protobuf_Net_Deserialization       0.1154409
+  Google_Protobuf_Serialization      0.0575565       29221973
+  Google_Protobuf_Deserialization    0.1190680
+  Newton_Json_Serialization          0.1905489       43434912
+  Newton_Json_Deserialization        0.3775370
+  Bson_Serialization                 0.7466094       42488910
+  Bson_Deserialization               0.3999383
+  System_Json_Serialization          0.0886913       43434912
+  System_Json_Deserialization        0.2141193
+  Avro_Serialization                 0.0873958       27603272
+  Avro_Deserialization               0.2543043
+  Protobuf_Net_Serialization         0.0467842       29221973
+  Protobuf_Net_Deserialization       0.1204691
+  Google_Protobuf_Serialization      0.0570788       29221973
+  Google_Protobuf_Deserialization    0.1085737
+  Newton_Json_Serialization          0.1982815       43434912
+  Newton_Json_Deserialization        0.3802249
+  Bson_Serialization                 0.7389837       42488910
+  Bson_Deserialization               0.3921326
+  System_Json_Serialization          0.0863323       43434912
+  System_Json_Deserialization        0.2171637
+  Avro_Serialization                 0.0854550       27603272
+  Avro_Deserialization               0.2551721
+  Protobuf_Net_Serialization         0.0450932       29221973
+  Protobuf_Net_Deserialization       0.1219124
+  Google_Protobuf_Serialization      0.0558738       29221973
+  Google_Protobuf_Deserialization    0.1048484
+  Newton_Json_Serialization          0.1982514       43434912
+  Newton_Json_Deserialization        0.3749468
+  Bson_Serialization                 0.7470924       42488910
+  Bson_Deserialization               0.3920026
+  System_Json_Serialization          0.0860724       43434912
+  System_Json_Deserialization        0.2110369
+  Avro_Serialization                 0.0863841       27603272
+  Avro_Deserialization               0.2507685
+  Protobuf_Net_Serialization         0.0452276       29221973
+  Protobuf_Net_Deserialization       0.1143395
+  Google_Protobuf_Serialization      0.0565748       29221973
+  Google_Protobuf_Deserialization    0.1197987
+  Newton_Json_Serialization          0.1890029       43434912
+  Newton_Json_Deserialization        0.3836857
+  Bson_Serialization                 0.7439218       42488910
+  Bson_Deserialization               0.4002805
+  System_Json_Serialization          0.0844238       43434912
+  System_Json_Deserialization        0.2129057
+  Avro_Serialization                 0.0858458       27603272
+  Avro_Deserialization               0.2542405
+  Protobuf_Net_Serialization         0.0456080       29221973
+  Protobuf_Net_Deserialization       0.1155969
+  Google_Protobuf_Serialization      0.0573935       29221973
+  Google_Protobuf_Deserialization    0.1147575
+  Newton_Json_Serialization          0.1884212       43434912
+  Newton_Json_Deserialization        0.3796392
+  Bson_Serialization                 0.7973988       42488910
+  Bson_Deserialization               0.4021975
+  System_Json_Serialization          0.0866302       43434912
+  System_Json_Deserialization        0.2115192
+  Avro_Serialization                 0.0883545       27603272
+  Avro_Deserialization               0.2577134
+  Protobuf_Net_Serialization         0.0454053       29221973
+  Protobuf_Net_Deserialization       0.1153841
+  Google_Protobuf_Serialization      0.0577235       29221973
+  Google_Protobuf_Deserialization    0.1185449
+  Newton_Json_Serialization          0.1904593       43434912
+  Newton_Json_Deserialization        0.3796662
+  Bson_Serialization                 0.7411996       42488910
+  Bson_Deserialization               0.5326852
+  System_Json_Serialization          0.0934157       43434912
+  System_Json_Deserialization        0.2377975
+  Avro_Serialization                 0.1170891       27603272
+  Avro_Deserialization               0.2846996
+  Protobuf_Net_Serialization         0.0464194       29221973
+  Protobuf_Net_Deserialization       0.1308500
+  Google_Protobuf_Serialization      0.0601791       29221973
+  Google_Protobuf_Deserialization    0.1206508
+  Newton_Json_Serialization          0.2167141       43434912
+  Newton_Json_Deserialization        0.4009241
+  Bson_Serialization                 0.7779574       42488910
+  Bson_Deserialization               0.4379975
+  System_Json_Serialization          0.0885538       43434912
+  System_Json_Deserialization        0.2162120
+  Avro_Serialization                 0.0932903       27603272
+  Avro_Deserialization               0.2588269
+  Protobuf_Net_Serialization         0.0460865       29221973
+  Protobuf_Net_Deserialization       0.1152912
+  Google_Protobuf_Serialization      0.0576959       29221973
+  Google_Protobuf_Deserialization    0.1160314
+  Newton_Json_Serialization          0.1906300       43434912
+  Newton_Json_Deserialization        0.3791338
+  Bson_Serialization                 0.7534210       42488910
+  Bson_Deserialization               0.3896233
+  System_Json_Serialization          0.0861544       43434912
+  System_Json_Deserialization        0.2124754
+  Avro_Serialization                 0.0874800       27603272
+  Avro_Deserialization               0.2512957
+  Protobuf_Net_Serialization         0.0455636       29221973
+  Protobuf_Net_Deserialization       0.1151985
+  Google_Protobuf_Serialization      0.0575234       29221973
+  Google_Protobuf_Deserialization    0.1161372
+  Newton_Json_Serialization          0.1939666       43434912
+  Newton_Json_Deserialization        0.3823699
+  Bson_Serialization                 0.7566670       42488910
+  Bson_Deserialization               0.3909107
+  System_Json_Serialization          0.0872320       43434912
+  System_Json_Deserialization        0.2367146
+  Avro_Serialization                 0.0899906       27603272
+  Avro_Deserialization               0.2539474
+  Protobuf_Net_Serialization         0.0466461       29221973
+  Protobuf_Net_Deserialization       0.1197754
+  Google_Protobuf_Serialization      0.0577189       29221973
+  Google_Protobuf_Deserialization    0.1082550
+  Newton_Json_Serialization          0.2003358       43434912
+  Newton_Json_Deserialization        0.3806774
+  Bson_Serialization                 0.7446179       42488910
+  Bson_Deserialization               0.3930578
+  System_Json_Serialization          0.0855220       43434912
+  System_Json_Deserialization        0.2190213
+  Avro_Serialization                 0.0868129       27603272
+  Avro_Deserialization               0.2728320
+  Protobuf_Net_Serialization         0.0462605       29221973
+  Protobuf_Net_Deserialization       0.1257340
+  Google_Protobuf_Serialization      0.0589917       29221973
+  Google_Protobuf_Deserialization    0.1063048
+  Newton_Json_Serialization          0.1994811       43434912
+  Newton_Json_Deserialization        0.3910468
+  Bson_Serialization                 0.7973755       42488910
+  Bson_Deserialization               0.3975116
+  System_Json_Serialization          0.0874365       43434912
+  System_Json_Deserialization        0.2134073
+  Avro_Serialization                 0.0883412       27603272
+  Avro_Deserialization               0.2526229
+  Protobuf_Net_Serialization         0.0473134       29221973
+  Protobuf_Net_Deserialization       0.1191161
+  Google_Protobuf_Serialization      0.0581038       29221973
+  Google_Protobuf_Deserialization    0.1056646
+  Newton_Json_Serialization          0.1976710       43434912
+  Newton_Json_Deserialization        0.3836838
+  Bson_Serialization                 0.7748109       42488910
+  Bson_Deserialization               0.3958424
+  System_Json_Serialization          0.0854375       43434912
+  System_Json_Deserialization        0.2153101
+  Avro_Serialization                 0.0896685       27603272
+  Avro_Deserialization               0.2543748
+  Protobuf_Net_Serialization         0.0619672       29221973
+  Protobuf_Net_Deserialization       0.1257715
+  Google_Protobuf_Serialization      0.0573523       29221973
+  Google_Protobuf_Deserialization    0.1094451
+  Newton_Json_Serialization          0.1976565       43434912
+  Newton_Json_Deserialization        0.3831360
+  Bson_Serialization                 0.7516322       42488910
+  Bson_Deserialization               0.3963929
+  System_Json_Serialization          0.0858055       43434912
+  System_Json_Deserialization        0.2157444
+  Avro_Serialization                 0.0879034       27603272
+  Avro_Deserialization               0.2663729
+  Protobuf_Net_Serialization         0.0456424       29221973
+  Protobuf_Net_Deserialization       0.1157434
+  Google_Protobuf_Serialization      0.0583515       29221973
+  Google_Protobuf_Deserialization    0.1160976
+  Newton_Json_Serialization          0.1940894       43434912
+  Newton_Json_Deserialization        0.3782818
+  Bson_Serialization                 0.7615735       42488910
+  Bson_Deserialization               0.3980006
+  System_Json_Serialization          0.0848882       43434912
+  System_Json_Deserialization        0.2141384
+  Avro_Serialization                 0.0883629       27603272
+  Avro_Deserialization               0.2583913
+  Protobuf_Net_Serialization         0.0458025       29221973
+  Protobuf_Net_Deserialization       0.1186024
+  Google_Protobuf_Serialization      0.0569829       29221973
+  Google_Protobuf_Deserialization    0.1065910
+  Newton_Json_Serialization          0.2005868       43434912
+  Newton_Json_Deserialization        0.3835397
+  Bson_Serialization                 0.7409188       42488910
+  Bson_Deserialization               0.4009542
+  System_Json_Serialization          0.0888150       43434912
+  System_Json_Deserialization        0.2120917
+  Avro_Serialization                 0.0886278       27603272
+  Avro_Deserialization               0.2533868
+  Protobuf_Net_Serialization         0.0457963       29221973
+  Protobuf_Net_Deserialization       0.1200019
+  Google_Protobuf_Serialization      0.0573743       29221973
+  Google_Protobuf_Deserialization    0.1061268
+  Newton_Json_Serialization          0.1987507       43434912
+  Newton_Json_Deserialization        0.3819175
+  Bson_Serialization                 0.7640870       42488910
+  Bson_Deserialization               0.3986694
+  System_Json_Serialization          0.0861394       43434912
+  System_Json_Deserialization        0.2169784
+  Avro_Serialization                 0.0860996       27603272
+  Avro_Deserialization               0.2635279
+  Protobuf_Net_Serialization         0.0458873       29221973
+  Protobuf_Net_Deserialization       0.1173909
+  Google_Protobuf_Serialization      0.0576741       29221973
+  Google_Protobuf_Deserialization    0.1165019
+  Newton_Json_Serialization          0.1881104       43434912
+  Newton_Json_Deserialization        0.3774568
+  Bson_Serialization                 0.7923805       42488910
+  Bson_Deserialization               0.3950879
+  System_Json_Serialization          0.0853911       43434912
+  System_Json_Deserialization        0.2167613
+  Avro_Serialization                 0.0883320       27603272
+  Avro_Deserialization               0.2558087
+  Protobuf_Net_Serialization         0.0455882       29221973
+  Protobuf_Net_Deserialization       0.1159462
+  Google_Protobuf_Serialization      0.0621328       29221973
+  Google_Protobuf_Deserialization    0.1157960
+  Newton_Json_Serialization          0.1956373       43434912
+  Newton_Json_Deserialization        0.3773748
+  Bson_Serialization                 0.7482627       42488910
+  Bson_Deserialization               0.3957072
+  System_Json_Serialization          0.0864572       43434912
+  System_Json_Deserialization        0.2152034
+  Avro_Serialization                 0.0890396       27603272
+  Avro_Deserialization               0.2538778
+  Protobuf_Net_Serialization         0.0479212       29221973
+  Protobuf_Net_Deserialization       0.1196528
+  Google_Protobuf_Serialization      0.0572322       29221973
+  Google_Protobuf_Deserialization    0.1062026
+  Newton_Json_Serialization          0.1961654       43434912
+  Newton_Json_Deserialization        0.3791383
+  Bson_Serialization                 0.7595870       42488910
+  Bson_Deserialization               0.4013601
+  System_Json_Serialization          0.0869605       43434912
+  System_Json_Deserialization        0.2154522
+  Avro_Serialization                 0.0887312       27603272
+  Avro_Deserialization               0.2640741
+  Protobuf_Net_Serialization         0.0449634       29221973
+  Protobuf_Net_Deserialization       0.1168480
+  Google_Protobuf_Serialization      0.0578104       29221973
+  Google_Protobuf_Deserialization    0.1186991
+  Newton_Json_Serialization          0.1921309       43434912
+  Newton_Json_Deserialization        0.3832338
+  Bson_Serialization                 0.7861005       42488910
+  Bson_Deserialization               0.4160426
+  System_Json_Serialization          0.0877606       43434912
+  System_Json_Deserialization        0.2246250
+  Avro_Serialization                 0.0880051       27603272
+  Avro_Deserialization               0.2568437
+  Protobuf_Net_Serialization         0.0456801       29221973
+  Protobuf_Net_Deserialization       0.1228981
+  Google_Protobuf_Serialization      0.0570396       29221973
+  Google_Protobuf_Deserialization    0.1055196
+  Newton_Json_Serialization          0.2013772       43434912
+  Newton_Json_Deserialization        0.3876319
+  Bson_Serialization                 0.7676176       42488910
+  Bson_Deserialization               0.3953693
+  System_Json_Serialization          0.0880524       43434912
+  System_Json_Deserialization        0.2147050
+  Avro_Serialization                 0.0888440       27603272
+  Avro_Deserialization               0.2547179
+  Protobuf_Net_Serialization         0.0460760       29221973
+  Protobuf_Net_Deserialization       0.1191480
+  Google_Protobuf_Serialization      0.0576007       29221973
+  Google_Protobuf_Deserialization    0.1057549
+  Newton_Json_Serialization          0.1953123       43434912
+  Newton_Json_Deserialization        0.3821300
+  Bson_Serialization                 0.7528232       42488910
+  Bson_Deserialization               0.4129288
+  System_Json_Serialization          0.0858611       43434912
+  System_Json_Deserialization        0.2224476
+  Avro_Serialization                 0.1004431       27603272
+  Avro_Deserialization               0.2604681
+  Protobuf_Net_Serialization         0.0450633       29221973
+  Protobuf_Net_Deserialization       0.1208727
+  Google_Protobuf_Serialization      0.0577759       29221973
+  Google_Protobuf_Deserialization    0.1203491
+  Newton_Json_Serialization          0.1999258       43434912
+  Newton_Json_Deserialization        0.4053474
+  Bson_Serialization                 0.8505230       42488910
+  Bson_Deserialization               0.4277930
+  System_Json_Serialization          0.0922518       43434912
+  System_Json_Deserialization        0.2299045
+  Avro_Serialization                 0.0929146       27603272
+  Avro_Deserialization               0.2675791
+  Protobuf_Net_Serialization         0.0455569       29221973
+  Protobuf_Net_Deserialization       0.1257571
+  Google_Protobuf_Serialization      0.0582386       29221973
+  Google_Protobuf_Deserialization    0.1065514
+  Newton_Json_Serialization          0.2062335       43434912
+  Newton_Json_Deserialization        0.3954667
+  Bson_Serialization                 0.8007708       42488910
+  Bson_Deserialization               0.4518852
+  System_Json_Serialization          0.0940310       43434912
+  System_Json_Deserialization        0.2348582
+  Avro_Serialization                 0.0932456       27603272
+  Avro_Deserialization               0.2815410
+  Protobuf_Net_Serialization         0.0492939       29221973
+  Protobuf_Net_Deserialization       0.1311332
+  Google_Protobuf_Serialization      0.0610409       29221973
+  Google_Protobuf_Deserialization    0.1157415
+  Newton_Json_Serialization          0.2165132       43434912
+  Newton_Json_Deserialization        0.4470791
+  Bson_Serialization                 0.7996618       42488910
+  Bson_Deserialization               0.4091424
+  System_Json_Serialization          0.0877284       43434912
+  System_Json_Deserialization        0.2214045
+  Avro_Serialization                 0.0901545       27603272
+  Avro_Deserialization               0.2596178
+  Protobuf_Net_Serialization         0.0475430       29221973
+  Protobuf_Net_Deserialization       0.1173762
+  Google_Protobuf_Serialization      0.0586009       29221973
+  Google_Protobuf_Deserialization    0.1158889
+  Newton_Json_Serialization          0.1907366       43434912
+  Newton_Json_Deserialization        0.3893066
+  Bson_Serialization                 0.7594943       42488910
+  Bson_Deserialization               0.3994049
+  System_Json_Serialization          0.0887484       43434912
+  System_Json_Deserialization        0.2192075
+  Avro_Serialization                 0.0875646       27603272
+  Avro_Deserialization               0.2511543
+  Protobuf_Net_Serialization         0.0462476       29221973
+  Protobuf_Net_Deserialization       0.1217146
+  Google_Protobuf_Serialization      0.0598924       29221973
+  Google_Protobuf_Deserialization    0.1176009
+  Newton_Json_Serialization          0.1882223       43434912
+  Newton_Json_Deserialization        0.3888790
+  Bson_Serialization                 0.7519543       42488910
+  Bson_Deserialization               0.4028302
+  System_Json_Serialization          0.0853605       43434912
+  System_Json_Deserialization        0.2151142
+  Avro_Serialization                 0.0881822       27603272
+  Avro_Deserialization               0.2499091
+  Protobuf_Net_Serialization         0.0454095       29221973
+  Protobuf_Net_Deserialization       0.1155722
+  Google_Protobuf_Serialization      0.0586886       29221973
+  Google_Protobuf_Deserialization    0.1181577
+  Newton_Json_Serialization          0.1920521       43434912
+  Newton_Json_Deserialization        0.3811256
+  Bson_Serialization                 0.7646367       42488910
+  Bson_Deserialization               0.4032532
+  System_Json_Serialization          0.0872058       43434912
+  System_Json_Deserialization        0.2173824
+  Avro_Serialization                 0.0898805       27603272
+  Avro_Deserialization               0.2572484
+  Protobuf_Net_Serialization         0.0459222       29221973
+  Protobuf_Net_Deserialization       0.1200961
+  Google_Protobuf_Serialization      0.0578504       29221973
+  Google_Protobuf_Deserialization    0.1098491
+  Newton_Json_Serialization          0.2006331       43434912
+  Newton_Json_Deserialization        0.3927166
+  Bson_Serialization                 0.7741183       42488910
+  Bson_Deserialization               0.4046837
+  System_Json_Serialization          0.0870599       43434912
+  System_Json_Deserialization        0.2147002
+  Avro_Serialization                 0.0881572       27603272
+  Avro_Deserialization               0.2590201
+  Protobuf_Net_Serialization         0.0457857       29221973
+  Protobuf_Net_Deserialization       0.1193797
+  Google_Protobuf_Serialization      0.0580522       29221973
+  Google_Protobuf_Deserialization    0.1062239
+  Newton_Json_Serialization          0.2006642       43434912
+  Newton_Json_Deserialization        0.3750572
+  Bson_Serialization                 0.7489878       42488910
+  Bson_Deserialization               0.4021261
+  System_Json_Serialization          0.0862722       43434912
+  System_Json_Deserialization        0.2153170
+  Avro_Serialization                 0.0883454       27603272
+  Avro_Deserialization               0.2613350
+  Protobuf_Net_Serialization         0.0463979       29221973
+  Protobuf_Net_Deserialization       0.1159123
+  Google_Protobuf_Serialization      0.0576399       29221973
+  Google_Protobuf_Deserialization    0.1174790
+  Newton_Json_Serialization          0.1949343       43434912
+  Newton_Json_Deserialization        0.3806886
+  Bson_Serialization                 0.7443782       42488910
+  Bson_Deserialization               0.3972464
+  System_Json_Serialization          0.0878225       43434912
+  System_Json_Deserialization        0.2165899
+  Avro_Serialization                 0.0880193       27603272
+  Avro_Deserialization               0.2486933
+  Protobuf_Net_Serialization         0.0463144       29221973
+  Protobuf_Net_Deserialization       0.1244952
+  Google_Protobuf_Serialization      0.0570799       29221973
+  Google_Protobuf_Deserialization    0.1058082
+  Newton_Json_Serialization          0.1992986       43434912
+  Newton_Json_Deserialization        0.3882704
+  Bson_Serialization                 0.7519862       42488910
+  Bson_Deserialization               0.3976700
+  System_Json_Serialization          0.0851617       43434912
+  System_Json_Deserialization        0.2173166
+  Avro_Serialization                 0.0860042       27603272
+  Avro_Deserialization               0.2479784
+  Protobuf_Net_Serialization         0.0453160       29221973
+  Protobuf_Net_Deserialization       0.1183527
+  Google_Protobuf_Serialization      0.0574612       29221973
+  Google_Protobuf_Deserialization    0.1172285
+  Newton_Json_Serialization          0.1930072       43434912
+  Newton_Json_Deserialization        0.3883204
+  Bson_Serialization                 0.7356399       42488910
+  Bson_Deserialization               0.3970661
+  System_Json_Serialization          0.0865506       43434912
+  System_Json_Deserialization        0.2144838
+  Avro_Serialization                 0.0947347       27603272
+  Avro_Deserialization               0.2543463
+  Protobuf_Net_Serialization         0.0441740       29221973
+  Protobuf_Net_Deserialization       0.1148478
+  Google_Protobuf_Serialization      0.0592120       29221973
+  Google_Protobuf_Deserialization    0.1205648
+  Newton_Json_Serialization          0.1902884       43434912
+  Newton_Json_Deserialization        0.3804861
+  Bson_Serialization                 0.7454317       42488910
+  Bson_Deserialization               0.3961435
+  System_Json_Serialization          0.0857721       43434912
+  System_Json_Deserialization        0.2138177
+  Avro_Serialization                 0.0885794       27603272
+  Avro_Deserialization               0.2558548
+  Protobuf_Net_Serialization         0.0452826       29221973
+  Protobuf_Net_Deserialization       0.1189324
+  Google_Protobuf_Serialization      0.0573852       29221973
+  Google_Protobuf_Deserialization    0.1057641
+  Newton_Json_Serialization          0.1997292       43434912
+  Newton_Json_Deserialization        0.3804978
+  Bson_Serialization                 0.8071048       42488910
+  Bson_Deserialization               0.3962447
+  System_Json_Serialization          0.0850682       43434912
+  System_Json_Deserialization        0.2134754
+  Avro_Serialization                 0.0880152       27603272
+  Avro_Deserialization               0.2621073
+  Protobuf_Net_Serialization         0.0447679       29221973
+  Protobuf_Net_Deserialization       0.1184859
+  Google_Protobuf_Serialization      0.0569862       29221973
+  Google_Protobuf_Deserialization    0.1045297
+  Newton_Json_Serialization          0.2010674       43434912
+  Newton_Json_Deserialization        0.3917088
+  Bson_Serialization                 0.7747520       42488910
+  Bson_Deserialization               0.4071630
+  System_Json_Serialization          0.0864840       43434912
+  System_Json_Deserialization        0.2143726
+  Avro_Serialization                 0.0874591       27603272
+  Avro_Deserialization               0.2602125
+  Protobuf_Net_Serialization         0.0453283       29221973
+  Protobuf_Net_Deserialization       0.1187450
+  Google_Protobuf_Serialization      0.0569627       29221973
+  Google_Protobuf_Deserialization    0.1058532
+  Newton_Json_Serialization          0.2039387       43434912
+  Newton_Json_Deserialization        0.3774926
+  Bson_Serialization                 0.7569691       42488910
+  Bson_Deserialization               0.3933268
+  System_Json_Serialization          0.0887839       43434912
+  System_Json_Deserialization        0.2115970
+  Avro_Serialization                 0.0868685       27603272
+  Avro_Deserialization               0.2517017
+  Protobuf_Net_Serialization         0.0458144       29221973
+  Protobuf_Net_Deserialization       0.1161398
+  Google_Protobuf_Serialization      0.0568125       29221973
+  Google_Protobuf_Deserialization    0.1163113
+  Newton_Json_Serialization          0.1874509       43434912
+  Newton_Json_Deserialization        0.3813049
+  Bson_Serialization                 0.7401464       42488910
+  Bson_Deserialization               0.3952813
+  System_Json_Serialization          0.0864391       43434912
+  System_Json_Deserialization        0.2175621
+  Avro_Serialization                 0.0873387       27603272
+  Avro_Deserialization               0.2542885
+  Protobuf_Net_Serialization         0.0456085       29221973
+  Protobuf_Net_Deserialization       0.1195846
+  Google_Protobuf_Serialization      0.0560518       29221973
+  Google_Protobuf_Deserialization    0.1049501
+  Newton_Json_Serialization          0.2018001       43434912
+  Newton_Json_Deserialization        0.3860366
+  Bson_Serialization                 0.7305963       42488910
+  Bson_Deserialization               0.3960269
+  System_Json_Serialization          0.0864149       43434912
+  System_Json_Deserialization        0.2134844
+  Avro_Serialization                 0.0868351       27603272
+  Avro_Deserialization               0.2532114
+  Protobuf_Net_Serialization         0.0455970       29221973
+  Protobuf_Net_Deserialization       0.1199888
+  Google_Protobuf_Serialization      0.0569532       29221973
+  Google_Protobuf_Deserialization    0.1126746
+  Newton_Json_Serialization          0.1995233       43434912
+  Newton_Json_Deserialization        0.3762381
+  Bson_Serialization                 0.7407003       42488910
+  Bson_Deserialization               0.4008264
+  System_Json_Serialization          0.0858839       43434912
+  System_Json_Deserialization        0.2121767
+  Avro_Serialization                 0.0873784       27603272
+  Avro_Deserialization               0.2771190
+  Protobuf_Net_Serialization         0.0484783       29221973
+  Protobuf_Net_Deserialization       0.1252736
+  Google_Protobuf_Serialization      0.0569173       29221973
+  Google_Protobuf_Deserialization    0.1052233
+  Newton_Json_Serialization          0.1977891       43434912
+  Newton_Json_Deserialization        0.3804084
+  Bson_Serialization                 0.8081631       42488910
+  Bson_Deserialization               0.4033221
+  System_Json_Serialization          0.0867383       43434912
+  System_Json_Deserialization        0.2138948
+  Avro_Serialization                 0.0872790       27603272
+  Avro_Deserialization               0.2609136
+  Protobuf_Net_Serialization         0.0445206       29221973
+  Protobuf_Net_Deserialization       0.1147017
+  Google_Protobuf_Serialization      0.0573499       29221973
+  Google_Protobuf_Deserialization    0.1159755
+  Newton_Json_Serialization          0.1917844       43434912
+  Newton_Json_Deserialization        0.3802211
+  Bson_Serialization                 0.7523218       42488910
+  Bson_Deserialization               0.3953015
+  System_Json_Serialization          0.0856983       43434912
+  System_Json_Deserialization        0.2107926
+  Avro_Serialization                 0.0869765       27603272
+  Avro_Deserialization               0.2513922
+  Protobuf_Net_Serialization         0.0452401       29221973
+  Protobuf_Net_Deserialization       0.1157806
+  Google_Protobuf_Serialization      0.0562071       29221973
+  Google_Protobuf_Deserialization    0.1154444
+  Newton_Json_Serialization          0.1887079       43434912
+  Newton_Json_Deserialization        0.3794037
+  Bson_Serialization                 0.7435682       42488910
+  Bson_Deserialization               0.3906979
+  System_Json_Serialization          0.0872605       43434912
+  System_Json_Deserialization        0.2128926
+  Avro_Serialization                 0.0877573       27603272
+  Avro_Deserialization               0.2558719
+  Protobuf_Net_Serialization         0.0456649       29221973
+  Protobuf_Net_Deserialization       0.1229585
+  Google_Protobuf_Serialization      0.0563425       29221973
+  Google_Protobuf_Deserialization    0.1046162
+  Newton_Json_Serialization          0.2009358       43434912
+  Newton_Json_Deserialization        0.3878047
+  Bson_Serialization                 0.7574292       42488910
+  Bson_Deserialization               0.4131185
+  System_Json_Serialization          0.0882135       43434912
+  System_Json_Deserialization        0.2161035
+  Avro_Serialization                 0.0871494       27603272
+  Avro_Deserialization               0.2520229
+  Protobuf_Net_Serialization         0.0458970       29221973
+  Protobuf_Net_Deserialization       0.1166689
+  Google_Protobuf_Serialization      0.0572823       29221973
+  Google_Protobuf_Deserialization    0.1155963
+  Newton_Json_Serialization          0.1894569       43434912
+  Newton_Json_Deserialization        0.3829625
+  Bson_Serialization                 0.7473265       42488910
+  Bson_Deserialization               0.3944737
+  System_Json_Serialization          0.0860907       43434912
+  System_Json_Deserialization        0.2152260
+  Avro_Serialization                 0.0907736       27603272
+  Avro_Deserialization               0.2531836
+  Protobuf_Net_Serialization         0.0453973       29221973
+  Protobuf_Net_Deserialization       0.1211734
+  Google_Protobuf_Serialization      0.0562906       29221973
+  Google_Protobuf_Deserialization    0.1097122
+  Newton_Json_Serialization          0.1985193       43434912
+  Newton_Json_Deserialization        0.3814518
+  Bson_Serialization                 0.7344133       42488910
+  Bson_Deserialization               0.4007038
+  System_Json_Serialization          0.0854741       43434912
+  System_Json_Deserialization        0.2156022
+  Avro_Serialization                 0.0870731       27603272
+  Avro_Deserialization               0.2601493
+  Protobuf_Net_Serialization         0.0447774       29221973
+  Protobuf_Net_Deserialization       0.1143851
+  Google_Protobuf_Serialization      0.0567045       29221973
+  Google_Protobuf_Deserialization    0.1171446
+  Newton_Json_Serialization          0.1907672       43434912
+  Newton_Json_Deserialization        0.3761746
+  Bson_Serialization                 0.7942543       42488910
+  Bson_Deserialization               0.4008034
+  System_Json_Serialization          0.0866686       43434912
+  System_Json_Deserialization        0.2153418
+  Avro_Serialization                 0.0873729       27603272
+  Avro_Deserialization               0.2574061
+  Protobuf_Net_Serialization         0.0462193       29221973
+  Protobuf_Net_Deserialization       0.1141927
+  Google_Protobuf_Serialization      0.0567764       29221973
+  Google_Protobuf_Deserialization    0.1150006

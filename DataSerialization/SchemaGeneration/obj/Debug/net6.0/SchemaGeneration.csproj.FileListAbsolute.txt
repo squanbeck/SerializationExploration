@@ -1,0 +1,5 @@
+C:\dev\VW\SerializationExploration\DataSerialization\SchemaGeneration\obj\Debug\net6.0\SchemaGeneration.csproj.AssemblyReference.cache
+C:\dev\VW\SerializationExploration\DataSerialization\SchemaGeneration\obj\Debug\net6.0\SchemaGeneration.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\VW\SerializationExploration\DataSerialization\SchemaGeneration\obj\Debug\net6.0\SchemaGeneration.AssemblyInfoInputs.cache
+C:\dev\VW\SerializationExploration\DataSerialization\SchemaGeneration\obj\Debug\net6.0\SchemaGeneration.AssemblyInfo.cs
+C:\dev\VW\SerializationExploration\DataSerialization\SchemaGeneration\obj\Debug\net6.0\SchemaGeneration.csproj.CoreCompileInputs.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataSerialization", "DataSerialization\DataSerialization.csproj", "{EA7A0B3D-9091-4CEF-A69F-43698E0F6E2C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchemaGeneration", "SchemaGeneration\SchemaGeneration.csproj", "{F18A4C97-AC6F-498E-B29D-FA554E2926AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA7A0B3D-9091-4CEF-A69F-43698E0F6E2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA7A0B3D-9091-4CEF-A69F-43698E0F6E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA7A0B3D-9091-4CEF-A69F-43698E0F6E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA7A0B3D-9091-4CEF-A69F-43698E0F6E2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F18A4C97-AC6F-498E-B29D-FA554E2926AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F18A4C97-AC6F-498E-B29D-FA554E2926AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F18A4C97-AC6F-498E-B29D-FA554E2926AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F18A4C97-AC6F-498E-B29D-FA554E2926AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1317FFF4-D8D8-4031-AEE9-DEDDFCE1AC8E}
+	EndGlobalSection
+EndGlobal

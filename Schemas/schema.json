@@ -1,0 +1,111 @@
+{
+  "definitions": {
+    "Address": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "properties": {
+        "StreetNumber": {
+          "type": "integer"
+        },
+        "Street": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "City": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "State": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "Country": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "PostalCode": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "StreetNumber",
+        "Street",
+        "City",
+        "State",
+        "Country",
+        "PostalCode"
+      ]
+    },
+    "Contact": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "properties": {
+        "Name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "Address": {
+          "$ref": "#/definitions/Address"
+        },
+        "Id": {
+          "type": "integer"
+        },
+        "PhoneNumber": {
+          "type": "integer"
+        },
+        "Relation": {
+          "type": "integer",
+          "enum": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        "Birthday": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "Name",
+        "Address",
+        "Id",
+        "PhoneNumber",
+        "Relation",
+        "Birthday"
+      ]
+    }
+  },
+  "type": "object",
+  "properties": {
+    "Contacts": {
+      "type": [
+        "array",
+        "null"
+      ],
+      "items": {
+        "$ref": "#/definitions/Contact"
+      }
+    }
+  },
+  "required": [
+    "Contacts"
+  ]
+}

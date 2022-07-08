@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Apache.Avro" Version="1.11.0" />
+    <PackageReference Include="AutoFixture" Version="4.17.0" />
+    <PackageReference Include="CloudNative.CloudEvents.Avro" Version="2.3.1" />
+    <PackageReference Include="CloudNative.CloudEvents.NewtonsoftJson" Version="2.3.1" />
+    <PackageReference Include="CloudNative.CloudEvents.Protobuf" Version="2.3.1" />
+    <PackageReference Include="CloudNative.CloudEvents.SystemTextJson" Version="2.3.1" />
+    <PackageReference Include="FluentAssertions" Version="6.7.0" />
+    <PackageReference Include="Google.Protobuf" Version="3.21.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Newtonsoft.Json.Bson" Version="1.0.2" />
+    <PackageReference Include="protobuf-net" Version="3.1.17" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="AvroAddressBook\" />
+  </ItemGroup>
+
+</Project>

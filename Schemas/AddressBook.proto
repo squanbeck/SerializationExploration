@@ -1,0 +1,28 @@
+syntax = "proto3";
+package DataSerialization.ProtoAddressBook;
+
+message Address {
+   int32 StreetNumber = 1;
+   string Street = 2;
+   string City = 3;
+   string State = 4;
+   string Country = 5;
+   int32 PostalCode = 6;
+}
+message AddressBook {
+   repeated Contact Contacts = 1;
+}
+message Contact {
+   string Name = 1;
+   Address Address = 2;
+   int32 Id = 3;
+   int32 PhoneNumber = 4;
+   Relation Relation = 5;
+   string Birthday = 6;
+}
+enum Relation {
+   Business = 0;
+   Friend = 1;
+   Family = 2;
+   Aquaintance = 3;
+}
